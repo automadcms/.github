@@ -1,4 +1,4 @@
 This organization contains a collection of distribution packages, essential dependencies and tools for [Automad](https://automad.org) &mdash; a modern flat-file content management system and template engine.
 The main Automad development repository can be found at [marcantondahmen/automad](https://github.com/marcantondahmen/automad).
 
-![Mockup](https://raw.githubusercontent.com/marcantondahmen/media-files/master/automad/readme.png)
+[![Mockup](https://raw.githubusercontent.com/marcantondahmen/media-files/master/automad/readme.png)](https://automad.org)
